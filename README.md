@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lWarwolfl
-- 👀 I’m interested in Front-end and Back-end website developement.
-- 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on any website projects
-- 📫 How to reach me m.sinakheiry2@gmail.com
+- 👋 Hi, I’m Mohamad Sina Kheiri
+- 👀 I’m interested in Front-end website developement and UI Design.
+- 🌱 I’m currently improving react.js knowledge and learning typescript.
+- 💞️ I’m looking to collaborate on any front-end(react.js) and UI design projects.
+- 📫 How to reach me https://www.linkedin.com/in/mohamad-sina-kheiri-068b19245/
