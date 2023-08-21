@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mohamad Sina Kheiri
-- 👀 I’m interested in Front-end website developement and UI Design.
-- 🌱 I’m currently improving my coding knowledge and looking for fitting remote jobs.
-- 💞️ I’m looking to collaborate on any front-end(react.js/vanilla) and UI design projects.
+- 👀 I’m interested in Front-end React.js/Next.js web developing.
+- 🌱 I’m currently working in Exmodules(https://exmodules.com/) as a Next.js developer.
 - 📫 How to reach me https://www.linkedin.com/in/mohamad-sina-kheiri-068b19245/
