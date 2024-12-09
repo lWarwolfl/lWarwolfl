@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohamad Sina Kheiri
-- 👀 I’m interested in Front-end React.js/Next.js web developing.
-- 🌱 I’m currently working in Exmodules(https://exmodules.com/) as a Next.js developer.
-- 📫 How to reach me https://www.linkedin.com/in/mohamad-sina-kheiri-068b19245/
+- 👋 Hi, I’m Sina Kheiri
+- 👀 I’m interested in Front-end Developer, Next.js/React.js, Typescript, Three.js, Web3.
+- 🌱 I’m currently working in [Sparkbridge Incubator Ltd.](https://www.sparkbridge.ca/about) as a Senior Front-end Developer.
+- 📫 How to reach me [Portfolio](https://sinakheiri.dev/) | [GitHub](https://github.com/lWarwolfl) | [Gitlab](https://gitlab.com/cnawam) | [LinkedIn](https://linkedin.com/in/sinakheiri-dev)
