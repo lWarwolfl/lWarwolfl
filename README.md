@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sina Kheiri
 - 👀 I’m interested in Front-end Developer, Next.js/React.js, Typescript, Three.js, Web3.
-- 🌱 I’m currently working in [Sparkbridge Incubator Ltd.](https://www.sparkbridge.ca/about) as a Senior Front-end Developer.
+- 🌱 I’m currently working in [Sparkbridge Incubator Ltd.](https://www.sparkbridge.ca/about) as a Front-end Developer.
 - 📫 How to reach me [Portfolio](https://sinakheiri.dev/) | [GitHub](https://github.com/lWarwolfl) | [LinkedIn](https://linkedin.com/in/sinakheiri-dev)
