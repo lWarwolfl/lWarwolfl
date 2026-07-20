@@ -1,13 +1,5 @@
 <p align="center">
-  <font face="monospace" color="#38BDF8">
-    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
-    &nbsp;_&nbsp;&nbsp;&nbsp;_&nbsp;_____&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;___&nbsp;&nbsp;&nbsp;_____&nbsp;_&nbsp;&nbsp;&nbsp;_&nbsp;_____&nbsp;____&nbsp;&nbsp;_____&nbsp;<br>
-    |&nbsp;|&nbsp;|&nbsp;|&nbsp;____|&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;&nbsp;&nbsp;/&nbsp;_&nbsp;\&nbsp;|_&nbsp;&nbsp;_|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;____|&nbsp;&nbsp;_&nbsp;\|&nbsp;____|<br>
-    |&nbsp;|_|&nbsp;|&nbsp;&nbsp;_|&nbsp;|&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;&nbsp;|&nbsp;|&nbsp;|&nbsp;|_|&nbsp;|&nbsp;&nbsp;_|&nbsp;|&nbsp;|_)&nbsp;|&nbsp;&nbsp;_|&nbsp;&nbsp;<br>
-    |&nbsp;&nbsp;_&nbsp;&nbsp;|&nbsp;|___|&nbsp;|___|&nbsp;|__|&nbsp;|_|&nbsp;|&nbsp;&nbsp;|&nbsp;|&nbsp;|&nbsp;&nbsp;_&nbsp;&nbsp;|&nbsp;|___|&nbsp;&nbsp;_&nbsp;&lt;|&nbsp;|___&nbsp;<br>
-    |_|&nbsp;|_|_____|_____|_____\___/&nbsp;&nbsp;&nbsp;|_|&nbsp;|_|&nbsp;|_|_____|_|&nbsp;\_\_____|<br>
-    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  </font>
+  <img src="header.svg" width="100%" alt="Hello There ASCII Banner" />
 </p>
 
 <p align="center">
@@ -29,8 +21,8 @@
 <br/>
 
 <p align="center">
-  <img height="160" src="https://github-stats-extended-frontend-sand.vercel.app/api?username=lWarwolfl&show_icons=true&title_color=38BDF8&icon_color=38BDF8&text_color=A0AEC0&bg_color=0D1117&hide_border=true&hide_rank=true&count_private=true" />
-  <img height="160" src="https://github-stats-extended-frontend-sand.vercel.app/api/top-langs/?username=lWarwolfl&layout=compact&title_color=38BDF8&icon_color=38BDF8&text_color=A0AEC0&bg_color=0D1117&hide_border=true&hide=php&langs_count=10&count_private=true" />
+  <img height="160" src="https://github-stats-extended-frontend-sand.vercel.app/api?username=lWarwolfl&show_icons=true&title_color=38BDF8&icon_color=38BDF8&text_color=A0AEC0&bg_color=0D1117&hide_border=true&hide_rank=true&count_private=true&v=2" />
+  <img height="160" src="https://github-stats-extended-frontend-sand.vercel.app/api/top-langs/?username=lWarwolfl&layout=compact&title_color=38BDF8&icon_color=38BDF8&text_color=A0AEC0&bg_color=0D1117&hide_border=true&hide=php&langs_count=10&count_private=true&v=2" />
 </p>
 
 <br/>
