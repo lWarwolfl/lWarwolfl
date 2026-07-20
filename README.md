@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:E0F2FE&height=160&section=header&text=%20&fontSize=0">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:E0F2FE&height=160&section=header&text=%20&fontSize=0" alt="header">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=160&section=header&text=%20&fontSize=0&v=2">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=160&section=header&text=%20&fontSize=0&v=2" alt="header">
 </picture>
 
 <p align="center">
@@ -22,8 +22,8 @@
 <br/>
 
 <p align="center">
-  <img height="160" src="https://github-stats-extended-frontend-sand.vercel.app/api?username=lWarwolfl&show_icons=true&title_color=38BDF8&icon_color=38BDF8&text_color=A0AEC0&bg_color=0D1117&hide_border=true" />
-  <img height="160" src="https://github-stats-extended-frontend-sand.vercel.app/api/top-langs/?username=lWarwolfl&layout=compact&title_color=38BDF8&icon_color=38BDF8&text_color=A0AEC0&bg_color=0D1117&hide_border=true" />
+  <img height="160" src="https://github-stats-extended-frontend-sand.vercel.app/api?username=lWarwolfl&show_icons=true&title_color=38BDF8&icon_color=38BDF8&text_color=A0AEC0&bg_color=0D1117&hide_border=true&hide_rank=true" />
+  <img height="160" src="https://github-stats-extended-frontend-sand.vercel.app/api/top-langs/?username=lWarwolfl&layout=compact&title_color=38BDF8&icon_color=38BDF8&text_color=A0AEC0&bg_color=0D1117&hide_border=true&hide=php&langs_count=10" />
 </p>
 
 <br/>
