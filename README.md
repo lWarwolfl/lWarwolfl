@@ -1,13 +1,6 @@
-<pre align="center">
-• ─────────────────────────────────────────────────────────────────────────── •
-  *        .        .       .     *          .     .       *        .       .  
-     .    *   .   ▲   .        .       .  *     .     +       .        .    *    
-  .         .    / \      .      .-"""-.     .       .           .      .      
-     +     .    | * |        .  /       \        .       +       .          +  
-  *      .      |___|   *      |  *   .  |   *       .       *       .      *  
-     .       .  |   |     .     \       /      .       .       .       .         
-• ─────────────────────────────────────────────────────────────────────────── •
-</pre>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:1e3a8a&height=120&section=header" width="100%" alt="Header Banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=38BDF8&center=true&vCenter=true&width=500&height=60&lines=Sina+Kheiri;Software+Engineer;lWarwolfl" alt="Typing SVG" />
