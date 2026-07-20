@@ -1,7 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=160&section=header&text=%20&fontSize=0&v=2">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=160&section=header&text=%20&fontSize=0&v=2" alt="header">
-</picture>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55504616/217468367-bf1b65e6-ec0b-468a-b94f-4318c6cc8c40.gif" alt="Space Galaxy Header" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=38BDF8&center=true&vCenter=true&width=500&height=60&lines=Sina+Kheiri;Software+Engineer;lWarwolfl" alt="Typing SVG" />
@@ -22,8 +21,8 @@
 <br/>
 
 <p align="center">
-  <img height="160" src="https://github-stats-extended-frontend-sand.vercel.app/api?username=lWarwolfl&show_icons=true&title_color=38BDF8&icon_color=38BDF8&text_color=A0AEC0&bg_color=0D1117&hide_border=true&hide_rank=true" />
-  <img height="160" src="https://github-stats-extended-frontend-sand.vercel.app/api/top-langs/?username=lWarwolfl&layout=compact&title_color=38BDF8&icon_color=38BDF8&text_color=A0AEC0&bg_color=0D1117&hide_border=true&hide=php&langs_count=10" />
+  <img height="160" src="https://github-stats-extended-frontend-sand.vercel.app/api?username=lWarwolfl&show_icons=true&title_color=38BDF8&icon_color=38BDF8&text_color=A0AEC0&bg_color=0D1117&hide_border=true&hide_rank=true&count_private=true" />
+  <img height="160" src="https://github-stats-extended-frontend-sand.vercel.app/api/top-langs/?username=lWarwolfl&layout=compact&title_color=38BDF8&icon_color=38BDF8&text_color=A0AEC0&bg_color=0D1117&hide_border=true&hide=php&langs_count=10&count_private=true" />
 </p>
 
 <br/>
