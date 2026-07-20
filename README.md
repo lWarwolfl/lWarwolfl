@@ -1,4 +1,4 @@
-<pre align="center">
+
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
  _   _ _____ _     _     ___   _____ _   _ _____ ____  _____ 
@@ -8,7 +8,7 @@
 |_| |_|_____|_____|_____\___/   |_| |_| |_|_____|_| \_\_____|
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-</pre>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=38BDF8&center=true&vCenter=true&width=500&height=60&lines=Sina+Kheiri;Software+Engineer;lWarwolfl" alt="Typing SVG" />
