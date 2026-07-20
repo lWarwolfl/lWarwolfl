@@ -1,14 +1,14 @@
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-
- _   _ _____ _     _     ___   _____ _   _ _____ ____  _____ 
-| | | | ____| |   | |   / _ \ |_   _| | | | ____|  _ \| ____|
-| |_| |  _| | |   | |  | | | |  | | | |_| |  _| | |_) |  _|  
-|  _  | |___| |___| |__| |_| |  | | |  _  | |___|  _ <| |___ 
-|_| |_|_____|_____|_____\___/   |_| |_| |_|_____|_| \_\_____|
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-
+<p align="center">
+  <font face="monospace" color="#38BDF8">
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>
+    &nbsp;_&nbsp;&nbsp;&nbsp;_&nbsp;_____&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;___&nbsp;&nbsp;&nbsp;_____&nbsp;_&nbsp;&nbsp;&nbsp;_&nbsp;_____&nbsp;____&nbsp;&nbsp;_____&nbsp;<br>
+    |&nbsp;|&nbsp;|&nbsp;|&nbsp;____|&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;&nbsp;&nbsp;/&nbsp;_&nbsp;\&nbsp;|_&nbsp;&nbsp;_|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;____|&nbsp;&nbsp;_&nbsp;\|&nbsp;____|<br>
+    |&nbsp;|_|&nbsp;|&nbsp;&nbsp;_|&nbsp;|&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;&nbsp;|&nbsp;|&nbsp;|&nbsp;|_|&nbsp;|&nbsp;&nbsp;_|&nbsp;|&nbsp;|_)&nbsp;|&nbsp;&nbsp;_|&nbsp;&nbsp;<br>
+    |&nbsp;&nbsp;_&nbsp;&nbsp;|&nbsp;|___|&nbsp;|___|&nbsp;|__|&nbsp;|_|&nbsp;|&nbsp;&nbsp;|&nbsp;|&nbsp;|&nbsp;&nbsp;_&nbsp;&nbsp;|&nbsp;|___|&nbsp;&nbsp;_&nbsp;&lt;|&nbsp;|___&nbsp;<br>
+    |_|&nbsp;|_|_____|_____|_____\___/&nbsp;&nbsp;&nbsp;|_|&nbsp;|_|&nbsp;|_|_____|_|&nbsp;\_\_____|<br>
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  </font>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=38BDF8&center=true&vCenter=true&width=500&height=60&lines=Sina+Kheiri;Software+Engineer;lWarwolfl" alt="Typing SVG" />
