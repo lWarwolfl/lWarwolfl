@@ -21,7 +21,7 @@
 <br/>
 
 <p align="center">
-  <img height="160" src="https://github-stats-extended-frontend-sand.vercel.app/api?username=lWarwolfl&show_icons=true&title_color=38BDF8&icon_color=38BDF8&text_color=A0AEC0&bg_color=0D1117&hide_border=true&hide_rank=true&count_private=true&v=2" />
+  <img height="160" src="https://github-stats-extended-frontend-sand.vercel.app/api?username=lWarwolfl&show_icons=true&title_color=38BDF8&icon_color=38BDF8&text_color=A0AEC0&bg_color=0D1117&hide_border=true&count_private=true&v=2" />
   <img height="160" src="https://github-stats-extended-frontend-sand.vercel.app/api/top-langs/?username=lWarwolfl&layout=compact&title_color=38BDF8&icon_color=38BDF8&text_color=A0AEC0&bg_color=0D1117&hide_border=true&hide=php&langs_count=10&count_private=true&v=2" />
 </p>
 
