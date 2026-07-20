@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-templates/main/banners/space.gif" alt="Premium Pixel Space Banner" width="100%" />
+  <img src="https://i.imgur.com/Y8wY2T9.gif" alt="Minimalist Space Starfield" width="100%" />
 </p>
 
 <p align="center">
