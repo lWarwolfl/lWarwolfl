@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55504616/217468367-bf1b65e6-ec0b-468a-b94f-4318c6cc8c40.gif" alt="Space Galaxy Header" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B4cjNtb283b3EzdWV4MnptamN0YW12N3lkMXBqdzh0OHlxdjVsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Space Cosmos Header" width="100%" />
 </p>
 
 <p align="center">
