@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://i.imgur.com/Y8wY2T9.gif" alt="Minimalist Space Starfield" width="100%" />
-</p>
+<pre align="center">
+.     *        .          .       *        .      .       *        .    
+   .       +        .       .   _    .       +        .       .     *   
+*     .        .     *     .   / \     *        .     *     .        .
+   .       *        .         | * |       .        *        .       +   
++     .        .       +      |___|   +       .        .       +        
+</pre>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=38BDF8&center=true&vCenter=true&width=500&height=60&lines=Sina+Kheiri;Software+Engineer;lWarwolfl" alt="Typing SVG" />
